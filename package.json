@@ -1,0 +1,10 @@
+{
+	"name": "stack",
+	"version": "0.0.1",
+	"description": "async flow control",
+	"keywords": ["flow"],
+	"repository": "git://github.com/shanebo/stack.git",
+	"author": "Shane Thacker <shane@steadymade.com>",
+	"engine": "node >= 0.4.1",
+	"main": "./lib/stack"
+}
