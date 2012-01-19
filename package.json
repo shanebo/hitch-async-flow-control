@@ -1,10 +1,10 @@
 {
-	"name": "stack",
+	"name": "hitch",
 	"version": "0.0.1",
 	"description": "async flow control",
 	"keywords": ["flow"],
-	"repository": "git://github.com/shanebo/stack.git",
+	"repository": "git://github.com/shanebo/hitch.git",
 	"author": "Shane Thacker <shane@steadymade.com>",
-	"engine": "node >= 0.4.1",
-	"main": "./lib/stack"
+	"engine": ">= 0.4.1",
+	"main": "./lib/hitch"
 }
