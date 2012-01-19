@@ -1,5 +1,5 @@
 
-var cleanup = new Stack();
+var cleanup = new Hitch();
 
 cleanup.chain(
     function(when){
@@ -24,7 +24,7 @@ cleanup.next('now');
 
 
 
-var endpoints = new Stack();
+var endpoints = new Hitch();
 
 endpoints.chain(
     function(when){
